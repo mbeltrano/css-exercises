@@ -5,7 +5,7 @@
     font-size: 15px;
 
 }
-.number2{
+#number2{
     color:blue;
     background-color: white;
     height: 50px;
@@ -19,7 +19,7 @@
     font-size: 25px;
 
 }
-.number4{
+#number4{
     color:black;
     background-color: greenyellow;
     height: 50px;
